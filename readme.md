@@ -1,6 +1,3 @@
-Here is the revised README file for your "mail-sender-api" repository:
-
-```markdown
 # Mail Sender API
 
 This is a simple mail-sending API built with Node.js. It uses SMTP for sending emails.
